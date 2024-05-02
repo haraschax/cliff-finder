@@ -40,14 +40,12 @@ def download_file(lat, lon, base_url, save_dir, session_info):
     with requests.Session() as session:
         #session.auth = (username, password)
         r1 = session.request('get', base_url + tile_name)
-        print(base_url + tile_name)
         r = session.get(r1.url)
 
-        if r.ok:
+        if r.ok and len(r.content) > 10000:
             with open(os.path.join(save_dir, tile_name), "wb") as binary_file:
                 binary_file.write(r.content)
             print(f"Downloaded {tile_name}")
-        print(r)
 
 def download_all_tiles(base_url, save_dir, username, password):
     session_info = (username, password)
