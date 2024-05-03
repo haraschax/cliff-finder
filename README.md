@@ -1,36 +1,36 @@
 ## You like cliffs? This repo finds cliffs from the world-topography map by some objective metric. Here are all cliffs that have a dropoff of at least 1000m over a lateral distance of 300m:
 
-Found 1050.46484375m diff at 28.564166666666665, 83.79916666666666 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N28_00_E083_00_DEM/Copernicus_DSM_COG_10_N28_00_E083_00_DEM.tif
-Found 1232.60791015625m diff at -65.47194444444445, -63.533888888888896 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S66_00_W064_00_DEM/Copernicus_DSM_COG_10_S66_00_W064_00_DEM.tif
-Found 1445.9554443359375m diff at 71.56833333333333, -52.05083333333333 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N71_00_W053_00_DEM/Copernicus_DSM_COG_10_N71_00_W053_00_DEM.tif
-Found 1153.03759765625m diff at 3.335555555555555, -65.55444444444444 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N03_00_W066_00_DEM/Copernicus_DSM_COG_10_N03_00_W066_00_DEM.tif
-Found 1228.2220458984375m diff at 27.87972222222222, 93.0 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N27_00_E093_00_DEM/Copernicus_DSM_COG_10_N27_00_E093_00_DEM.tif
-Found 1139.9293212890625m diff at 70.44583333333333, -51.6375 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N70_00_W052_00_DEM/Copernicus_DSM_COG_10_N70_00_W052_00_DEM.tif
-Found 1050.2342529296875m diff at 71.61888888888889, -51.75416666666666 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N71_00_W052_00_DEM/Copernicus_DSM_COG_10_N71_00_W052_00_DEM.tif
-Found 1146.2646484375m diff at 73.11361111111111, -27.838333333333335 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N73_00_W028_00_DEM/Copernicus_DSM_COG_10_N73_00_W028_00_DEM.tif
-Found 1161.021240234375m diff at -17.587500000000002, -149.49944444444446 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S18_00_W150_00_DEM/Copernicus_DSM_COG_10_S18_00_W150_00_DEM.tif
-Found 1048.94970703125m diff at 29.159166666666664, 96.48527777777778 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N29_00_E096_00_DEM/Copernicus_DSM_COG_10_N29_00_E096_00_DEM.tif
-Found 1078.7781982421875m diff at 60.81944444444445, -43.63111111111111 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N60_00_W044_00_DEM/Copernicus_DSM_COG_10_N60_00_W044_00_DEM.tif
-Found 1134.775146484375m diff at 59.94722222222222, 6.629583333333334 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N59_00_E006_00_DEM/Copernicus_DSM_COG_10_N59_00_E006_00_DEM.tif
-Found 1278.414794921875m diff at 28.468055555555555, 84.00944444444445 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N28_00_E084_00_DEM/Copernicus_DSM_COG_10_N28_00_E084_00_DEM.tif
-Found 1090.0555419921875m diff at -43.11083333333333, -72.23083333333332 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S44_00_W073_00_DEM/Copernicus_DSM_COG_10_S44_00_W073_00_DEM.tif
-Found 1146.895263671875m diff at -42.464999999999996, -72.08833333333332 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S43_00_W073_00_DEM/Copernicus_DSM_COG_10_S43_00_W073_00_DEM.tif
-Found 1261.6826171875m diff at -43.611666666666665, 170.07972222222222 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S44_00_E170_00_DEM/Copernicus_DSM_COG_10_S44_00_E170_00_DEM.tif
-Found 1032.81591796875m diff at 30.426944444444445, 94.9625 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N30_00_E094_00_DEM/Copernicus_DSM_COG_10_N30_00_E094_00_DEM.tif
-Found 1090.5224609375m diff at -78.41250000000001, -85.99 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S79_00_W086_00_DEM/Copernicus_DSM_COG_10_S79_00_W086_00_DEM.tif
-Found 1150.0823974609375m diff at -9.771388888888888, -75.81583333333333 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S10_00_W076_00_DEM/Copernicus_DSM_COG_10_S10_00_W076_00_DEM.tif
-Found 1001.2722778320312m diff at -49.78527777777778, -74.6236111111111 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S50_00_W075_00_DEM/Copernicus_DSM_COG_10_S50_00_W075_00_DEM.tif
-Found 1087.69580078125m diff at 35.92944444444445, 75.8225 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N35_00_E075_00_DEM/Copernicus_DSM_COG_10_N35_00_E075_00_DEM.tif
-Found 1206.92578125m diff at -63.00527777777778, -62.58833333333333 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S64_00_W063_00_DEM/Copernicus_DSM_COG_10_S64_00_W063_00_DEM.tif
-Found 1046.980712890625m diff at -46.53944444444444, -73.39388888888888 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S47_00_W074_00_DEM/Copernicus_DSM_COG_10_S47_00_W074_00_DEM.tif
-Found 1313.9287109375m diff at 27.76361111111111, 97.11972222222222 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N27_00_E097_00_DEM/Copernicus_DSM_COG_10_N27_00_E097_00_DEM.tif
-Found 1191.152587890625m diff at -33.78388888888889, -80.80416666666666 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S34_00_W081_00_DEM/Copernicus_DSM_COG_10_S34_00_W081_00_DEM.tif
-Found 1032.13134765625m diff at 27.85111111111111, 89.30166666666668 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N27_00_E089_00_DEM/Copernicus_DSM_COG_10_N27_00_E089_00_DEM.tif
-Found 1337.7286376953125m diff at 5.213055555555555, -76.18305555555555 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N05_00_W077_00_DEM/Copernicus_DSM_COG_10_N05_00_W077_00_DEM.tif
-Found 1144.0009765625m diff at 27.965277777777775, 86.96527777777779 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N27_00_E086_00_DEM/Copernicus_DSM_COG_10_N27_00_E086_00_DEM.tif
-Found 1104.21240234375m diff at 28.243888888888886, 96.42111111111112 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N28_00_E096_00_DEM/Copernicus_DSM_COG_10_N28_00_E096_00_DEM.tif
-Found 1035.619140625m diff at 63.453333333333326, -42.00333333333333 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N63_00_W043_00_DEM/Copernicus_DSM_COG_10_N63_00_W043_00_DEM.tif
-Found 1057.17236328125m diff at 35.40111111111111, 76.4263888888889 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N35_00_E076_00_DEM/Copernicus_DSM_COG_10_N35_00_E076_00_DEM.tif
+Found 1050.46484375m diff at 28.564166666666665, 83.79916666666666
+Found 1232.60791015625m diff at -65.47194444444445, -63.533888888888896
+Found 1445.9554443359375m diff at 71.56833333333333, -52.05083333333333
+Found 1153.03759765625m diff at 3.335555555555555, -65.55444444444444
+Found 1228.2220458984375m diff at 27.87972222222222, 93.0
+Found 1139.9293212890625m diff at 70.44583333333333, -51.6375
+Found 1050.2342529296875m diff at 71.61888888888889, -51.75416666666666
+Found 1146.2646484375m diff at 73.11361111111111, -27.838333333333335
+Found 1161.021240234375m diff at -17.587500000000002, -149.49944444444446
+Found 1048.94970703125m diff at 29.159166666666664, 96.48527777777778
+Found 1078.7781982421875m diff at 60.81944444444445, -43.63111111111111
+Found 1134.775146484375m diff at 59.94722222222222, 6.629583333333334
+Found 1278.414794921875m diff at 28.468055555555555, 84.00944444444445
+Found 1090.0555419921875m diff at -43.11083333333333, -72.23083333333332
+Found 1146.895263671875m diff at -42.464999999999996, -72.08833333333332
+Found 1261.6826171875m diff at -43.611666666666665, 170.07972222222222
+Found 1032.81591796875m diff at 30.426944444444445, 94.9625
+Found 1090.5224609375m diff at -78.41250000000001, -85.99
+Found 1150.0823974609375m diff at -9.771388888888888, -75.81583333333333
+Found 1001.2722778320312m diff at -49.78527777777778, -74.6236111111111
+Found 1087.69580078125m diff at 35.92944444444445, 75.8225
+Found 1206.92578125m diff at -63.00527777777778, -62.58833333333333
+Found 1046.980712890625m diff at -46.53944444444444, -73.39388888888888
+Found 1313.9287109375m diff at 27.76361111111111, 97.11972222222222
+Found 1191.152587890625m diff at -33.78388888888889, -80.80416666666666
+Found 1032.13134765625m diff at 27.85111111111111, 89.30166666666668
+Found 1337.7286376953125m diff at 5.213055555555555, -76.18305555555555
+Found 1144.0009765625m diff at 27.965277777777775, 86.96527777777779
+Found 1104.21240234375m diff at 28.243888888888886, 96.42111111111112
+Found 1035.619140625m diff at 63.453333333333326, -42.00333333333333
+Found 1057.17236328125m diff at 35.40111111111111, 76.4263888888889
 Found 1219.4267578125m diff at -44.73444444444444, 167.75916666666666 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_S45_00_E167_00_DEM/Copernicus_DSM_COG_10_S45_00_E167_00_DEM.tif
 Found 2564.372314453125m diff at 27.859166666666667, 92.57333333333334 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N27_00_E092_00_DEM/Copernicus_DSM_COG_10_N27_00_E092_00_DEM.tif
 Found 1706.7001953125m diff at 29.636944444444442, 95.06527777777778 in /home/batman/Documents/global_topo_copernicus/Copernicus_DSM_COG_10_N29_00_E095_00_DEM/Copernicus_DSM_COG_10_N29_00_E095_00_DEM.tif
