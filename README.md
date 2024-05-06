@@ -15,11 +15,11 @@ cd cliff-finder
 ./dl_copernicus_glo30.sh
 ./find_cliffs.py
 ```
-This will output a list of cliffs found, and a topographic map of each cliffs in `cliffs_found`
+This will output a list of cliffs found, and a topographic map of each cliff in `cliffs_found`
 
 # Some cool cliffs this algorithm found
 ### Latok I, Pakistan, 35°55'50.9"N 75°49'26.6"E
-The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change according to cliff-finder. Which would make it the tallest cliff in the world. The total height change from the cliff peak to valley right in front of it is ~2300m.
+The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change, according to cliff-finder. Which would make it the tallest cliff in the world. The total height change from the cliff peak to the valley right in front of it is ~2300m.
 ![latok1](cliff_pics/latok1_north_face.jpg)
 
 ### Namcha Barwa, China, 29°37'14.8"N 95°02'12.6"E
@@ -32,10 +32,10 @@ The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change acco
 Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida. A large plateau mountain with close to 1000m cliffs all around.\
 ![duida](cliff_pics/duida.jpeg)
 
-### Fatu Hiva's sea cliffs, French Polynesia, 10°31'30.9"S 138°41'03.5"W
+### Fatu Hiva's Sea Cliffs, French Polynesia, 10°31'30.9"S 138°41'03.5"W
 ![fatu](cliff_pics/fatu_hiva.jpg)
 
-### Takamaka valley, Reunion, 21°05'49.5"S 55°37'13.6"E
+### Takamaka vVlley, Reunion, 21°05'49.5"S 55°37'13.6"E
 ![takamaka](cliff_pics/takamaka.jpg)
 
 ### Filchner Mountains, Antarctica, 71°58'36.2"S 7°35'47.9"E
