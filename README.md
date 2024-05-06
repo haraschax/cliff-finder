@@ -1,5 +1,5 @@
 # cliff-finder, world's best finder of cliffs
-I like cliffs, they look cool. If you're a lover of cliffs you may also be annoyed by the lack of rigorous cataloguing and recordkeeping of tall/steep cliffs. Wikipedia entries and others are polluted with inflated metrics and cliffs that are conveniently close to populated areas. This repo finds cliffs through an objective analysis of world topographic maps. Many of the world's most extreme cliffs are not close to civilation, are not well documented if documented at all. Some may have never even be photographed.
+I like cliffs, they look cool. If you're a lover of cliffs you may also be annoyed by the lack of rigorous cataloguing and recordkeeping of the world's tallest/steepest cliffs. Wikipedia entries and others are polluted with inflated metrics and cliffs that are conveniently close to populated areas. This repo finds cliffs through an objective analysis of world topographic maps. Many of the world's most extreme cliffs are not close to civilation, are not well documented if documented at all. Some may have never even be photographed.
 
 This repo uses the [Copernicus GLO-30](https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3) dataset. It's the most accurate free dataset that I could find. It still has numerous flaws but far less than ASTER, ALOS, SRTM and others I could find.
 
