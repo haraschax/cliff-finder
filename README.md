@@ -3,7 +3,7 @@ Interactive map: [https://haraschax.github.io/cliff-finder/](https://haraschax.g
 
 I like cliffs; they look cool. If you're a lover of cliffs, you may also be annoyed by the lack of rigorous cataloging and recordkeeping of the world's tallest/steepest cliffs. Wikipedia entries and others are polluted with inflated metrics and cliffs that are predominately famous because they are close to populated areas. This repo finds cliffs through an objective analysis of world topographic maps. Many of the world's most extreme cliffs are not close to civilization, and are not well documented, if documented at all. Some may have never even have been photographed.
 
-This repo uses the [Copernicus GLO-30](https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3) dataset. It's the most accurate free dataset that I could find. It still has numerous flaws but far less than ASTER, ALOS, SRTM, and others I could find.
+This repo uses the [Copernicus GLO-30](https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3) dataset. It's the most accurate free dataset that I could find. It still has numerous flaws, but far fewer than ASTER, ALOS, SRTM, and others I could find.
 
 ![cliffs_map_simple](cliffs_map_simple.png)
 The above image is a map of all cliffs over 600m tall. Cliffs are defined here as an average slope of over 300%, though I'll be happy to use a different definition if anyone has strong arguments.
