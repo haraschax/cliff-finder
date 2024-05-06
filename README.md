@@ -22,4 +22,4 @@ The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change acco
 
 ## Namcha Barwa, west face
 Namcha Barwas's west face show's a 1450m 300% grade drop. The total height change to the from the peak to the river a couple miles down stream is ~4000m.
-![barwa](cliff_pics/namcha_barwa.jpg)
+![barwa](cliff_pics/namcha_barwa_west.jpg)
