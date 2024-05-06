@@ -16,10 +16,14 @@ cd cliff-finder
 This will output a list of cliffs found, and a topographic map of each cliffs in `cliffs_found`
 
 # Some cool cliffs this algorithm found
-## Latok I, north face
+## Latok I, Pakistan
 The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change according to cliff-finder. Which would make it the tallest cliff in the world. The total height change from the cliff peak to valley right in front of it is ~2300m.
 ![latok1](cliff_pics/latok1_north_face.jpg)
 
-## Namcha Barwa, west face
+## Namcha Barwa, China
 Namcha Barwas's west face show's a 1450m 300% grade drop. The total height change to the from the peak to the river a couple miles down stream is ~4000m.
 ![barwa](cliff_pics/namcha_barwa_west.jpg)
+
+## Mount Foster, Antarctica
+A small thin island in the antartic.
+![foster](cliff_pics/foster.jpg)
