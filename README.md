@@ -21,11 +21,9 @@ The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change acco
 ![latok1](cliff_pics/latok1_north_face.jpg)
 
 ### Namcha Barwa, China
-Namcha Barwas's west face show's a 1450m 300% grade drop. The total height change to the from the peak to the river a couple miles down stream is ~4000m.
 ![barwa](cliff_pics/namcha_barwa_west.jpg)
 
 ### Mount Foster, Antarctica
-A small thin island in the antartic.
 ![foster](cliff_pics/foster.jpg)
 
 ### Cerro Duida, Venezuela
@@ -37,3 +35,13 @@ Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida
 
 ### Takamaka valley, Reunion, 21°05'49.5"S 55°37'13.6"E
 ![takamaka](cliff_pics/takamaka.jpg)
+
+### Antarctica, Filchner Mountains, 71°58'36.2"S 7°35'47.9"E
+![filchner](cliff_pics/filchner.jpg)
+
+### Schiben, Switzerland, 46°48'59.6"N 8°57'52.4"E
+![schiben](cliff_pics/schiben.jpg)
+
+### Half Dome and El Capitan in Yosemite, USA, 37°44'41.5"N 119°32'10.3"W and 37°43'48.0"N 119°38'11.0"W
+Both Yosemite's famous cliff walls show up with cliff-finder too
+![both_yosemite](cliff_pics/both_yosemite.jpg)
