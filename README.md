@@ -30,7 +30,7 @@ The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change acco
 
 ### Cerro Duida, Venezuela, 3°20'10.9"N 65°33'15.2"W
 Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida. A large plateau mountain with close to 1000m cliffs all around.
-![duida](cliff_pics/duida.jpg)
+![duida](cliff_pics/duida.jpeg)
 
 ### Fatu Hiva's sea cliffs, French Polynesia, 10°31'30.9"S 138°41'03.5"W
 ![fatu](cliff_pics/fatu_hiva.jpg)
@@ -42,7 +42,7 @@ Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida
 ![filchner](cliff_pics/filchner.jpg)
 
 ### Schiben, Switzerland, 46°48'59.6"N 8°57'52.4"E
-![schiben](cliff_pics/schiben.jpg)
+![schiben](cliff_pics/schiben.png)
 
 ### Sumidero Canyon, Mexico, 16°49'59.1"N 93°03'52.7"W
 ![sumidero](cliff_pics/sumidero.webp)
