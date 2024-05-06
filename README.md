@@ -7,7 +7,7 @@ This repo uses the [Copernicus GLO-30](https://portal.opentopography.org/raster?
 The above image is a map of all cliffs over 600m tall. Cliffs are defined here as an average slope of over 300%, though I'll be happy to use a different definition if anyone has strong arguments.
 
 # How to use
-install the needed packages and then run the download script (~1.5T of data) and run the search:
+install the needed packages and then run the download script (~1.5T of data) and run the search (2hrs on my machine):
 ```
 cd cliff-finder
 ./dl_copernicus_glo30.sh
