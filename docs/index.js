@@ -73,6 +73,14 @@ const deckgl = new DeckGL({
   layers: [terLayer, scatLayer],
   getTooltip: ({ object }) => object && {html: `<div>
   <p>Cliff Height: ${Math.round(parseFloat(object.height) * 100)/100}m</p>
-  <p>(Lat, Lng): (${Math.round(parseFloat(object.latitude) * 100) / 100}, ${Math.round(parseFloat(object.longitude) * 100)/100})</p>
-  </div>`}
+  <p>Lat, Lng: ${Math.round(parseFloat(object.latitude) * 100) / 100}, ${Math.round(parseFloat(object.longitude) * 100)/100}</p>
+  <p>(Click to view on Google Maps)</p>
+  </div>`},
+  onClick: ({object}) => {
+    if (object) {
+      const url = `https://www.google.com/maps/@${parseFloat(object.latitude)},${parseFloat(object.longitude)},10000m/data=!3m1!1e3?entry=ttu`;
+      console.log(url);
+      window.open(url)
+    }
+  }
 });
