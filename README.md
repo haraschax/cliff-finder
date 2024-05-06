@@ -27,3 +27,7 @@ Namcha Barwas's west face show's a 1450m 300% grade drop. The total height chang
 ## Mount Foster, Antarctica
 A small thin island in the antartic.
 ![foster](cliff_pics/foster.jpg)
+
+## Cerro Duida, Venezuela
+Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida. A large plateau mountain with close to 1000m cliffs all around.
+![duida](cliff_pics/duida.jpg)
