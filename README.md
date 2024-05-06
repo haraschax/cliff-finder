@@ -23,10 +23,10 @@ The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change acco
 ### Namcha Barwa, China
 ![barwa](cliff_pics/namcha_barwa_west.jpg)
 
-### Mount Foster, Antarctica
+### Mount Foster, Antarctica, 63°00'25.7"S 62°35'14.6"W
 ![foster](cliff_pics/foster.jpg)
 
-### Cerro Duida, Venezuela
+### Cerro Duida, Venezuela, 3°20'10.9"N 65°33'15.2"W
 Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida. A large plateau mountain with close to 1000m cliffs all around.
 ![duida](cliff_pics/duida.jpg)
 
