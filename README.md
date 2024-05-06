@@ -38,7 +38,7 @@ Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida
 ### Takamaka valley, Reunion, 21°05'49.5"S 55°37'13.6"E
 ![takamaka](cliff_pics/takamaka.jpg)
 
-### Antarctica, Filchner Mountains, 71°58'36.2"S 7°35'47.9"E
+### Filchner Mountains, Antarctica, 71°58'36.2"S 7°35'47.9"E
 ![filchner](cliff_pics/filchner.jpg)
 
 ### Schiben, Switzerland, 46°48'59.6"N 8°57'52.4"E
