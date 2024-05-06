@@ -44,6 +44,9 @@ Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida
 ### Schiben, Switzerland, 46°48'59.6"N 8°57'52.4"E
 ![schiben](cliff_pics/schiben.jpg)
 
+### Sumidero Canyon, Mexico, 16°49'59.1"N 93°03'52.7"W
+![sumidero](cliff_pics/sumidero.webp)
+
 ### Half Dome and El Capitan in Yosemite, USA, 37°44'41.5"N 119°32'10.3"W and 37°43'48.0"N 119°38'11.0"W
 Both Yosemite's famous cliff walls show up with cliff-finder too
 ![both_yosemite](cliff_pics/both_yosemite.jpg)
