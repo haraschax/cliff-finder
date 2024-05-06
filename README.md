@@ -3,7 +3,7 @@ I like cliffs, they look cool. If you're a lover of cliffs you may also be annoy
 
 This repo uses the [Copernicus GLO-30](https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3) dataset. It's the most accurate free dataset that I could find. It still has numerous flaws but far less than ASTER, ALOS, SRTM, and others I could find.
 
-![cliffs_map_simple](https://github.com/haraschax/cliff-finder/assets/6804392/bdf3c368-cf48-4044-97a8-cdb5d265c328)
+![cliffs_map_simple](cliffs_map_simple.png)
 The above image is a map of all cliffs over 600m tall. Cliffs are defined here as an average slope of over 300%, though I'll be happy to use a different definition if anyone has strong arguments.
 
 # How to use
@@ -17,5 +17,9 @@ This will output a list of cliffs found, and a topographic map of each cliffs in
 
 # Some cool cliffs this algorithm found
 ## Latok I, north face
-The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change according to cliff-finder. Which would make it the tallest cliff in the world. The total height change from the cliff peak to valley is ~2300m.
-![latok1](cliff_pics/latok1_north_face)
+The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change according to cliff-finder. Which would make it the tallest cliff in the world. The total height change from the cliff peak to valley right in front of it is ~2300m.
+![latok1](cliff_pics/latok1_north_face.jpg)
+
+## Namcha Barwa, west face
+Namcha Barwas's west face show's a 1450m 300% grade drop. The total height change to the from the peak to the river a couple miles down stream is ~4000m.
+![barwa](cliff_pics/namcha_barwa.jpg)
