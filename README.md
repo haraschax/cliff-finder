@@ -16,3 +16,6 @@ cd cliff-finder
 This will output a list of cliffs found, and a topographic map of each cliffs in `cliffs_found`
 
 # Some cool cliffs this algorithm found
+## Latok I, north face
+The north face of Latok 1 shows a 300%+ grade for 1900m of elevation change according to cliff-finder. Which would make it the tallest cliff in the world. The total height change from the cliff peak to valley is ~2300m.
+![latok1](cliff_pics/latok1_north_face)
