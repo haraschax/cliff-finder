@@ -4,6 +4,9 @@
     <script src="https://unpkg.com/deck.gl@latest/dist.min.js"></script>
     <script src="https://unpkg.com/maplibre-gl@3.0.0/dist/maplibre-gl.js"></script>
     <link href="https://unpkg.com/maplibre-gl@3.0.0/dist/maplibre-gl.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100..800&display=swap" rel="stylesheet">
   <style>
       body {
       width: 100vw;
@@ -13,6 +16,12 @@
   </style>  
   </head>
   <body>
+    <div style="position: absolute; z-index: 999; bottom: 5%; width: 100%; text-align: center; font-family: 'JetBrains Mono'; display: flex; justify-content: center;">
+      <div style="background: rgba(220, 220, 220, 0.5);border-radius: 10px;padding: 25px; width: 50%;">
+        <p style="font-size: 50px; font-weight: 800; margin: 0px">cliff-finder</p>
+        <p style="margin: 0px">Note: Zoom in to see the terrain; press Shift + drag the pointer to yaw/pitch the map</p>
+      </div>
+    </div>
     <script src="index.js" type="module"></script>
   </body>
 </html>
