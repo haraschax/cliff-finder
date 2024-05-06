@@ -1,5 +1,5 @@
 # cliff-finder, world's best finder of cliffs
-{Interactive Cliff Map Click Here](https://haraschax.github.io/cliff-finder/)
+[Interactive Cliff Map Click Here](https://haraschax.github.io/cliff-finder/)
 
 I like cliffs; they look cool. If you're a lover of cliffs, you may also be annoyed by the lack of rigorous cataloging and recordkeeping of the world's tallest/steepest cliffs. Wikipedia entries and others are polluted with inflated metrics and cliffs that are predominately famous because they are close to populated areas. This repo finds cliffs through an objective analysis of world topographic maps. Many of the world's most extreme cliffs are not close to civilization, and are not well documented, if documented at all. Some may have never even have been photographed.
 
