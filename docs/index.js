@@ -43,18 +43,26 @@ const scatLayer = new ScatterplotLayer({
       const lng = parseFloat(d.longitude);
       return [lng, lat];
     },
-    getRadius: d => 500,
-
+    getRadius: (d) => {
+      if(d.img === ''){return 12}
+      else {return 100}
+    },
+    radiusUnits: 'pixels',
     pickable: true,
     autoHighlight: true,
     highlightColor: [241, 196, 15, 220],
-    getFillColor: [192, 57, 43, 255],
+    getFillColor: (d) => {
+      if(d.img === ''){return [192, 57, 43, 255]}
+      else {return [41, 128, 185, 220]}
+    },
     filled: true,
     stroked: true,
     getLineWidth: 2,
     lineWidthUnits: 'pixels',
     getLineColor: [255, 255, 255, 255],
-    radiusMinPixels: 15,
+    radiusMinPixels: 10,
+    radiusMaxPixels: 30,
+
     extensions: [new _TerrainExtension()],
     terrainDrawMode: 'drape'
   })
@@ -74,6 +82,7 @@ const deckgl = new DeckGL({
   getTooltip: ({ object }) => object && {html: `<div>
   <p>Cliff Height: ${Math.round(parseFloat(object.height) * 100)/100}m</p>
   <p>Lat, Lng: ${Math.round(parseFloat(object.latitude) * 100) / 100}, ${Math.round(parseFloat(object.longitude) * 100)/100}</p>
+  ${object.img && '<img src="'+object.img+'" style="max-width: 800px"/>'}
   <p>(Click to view on Google Maps)</p>
   </div>`},
   onClick: ({object}) => {
