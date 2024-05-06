@@ -32,5 +32,8 @@ A small thin island in the antartic.
 Deep in the venezuelan jungle. Over 100km from the closest road lies Cerro Duida. A large plateau mountain with close to 1000m cliffs all around.
 ![duida](cliff_pics/duida.jpg)
 
-### Fatu Hiva's sea cliffs, French Polynesia 10°31'30.9"S 138°41'03.5"W
+### Fatu Hiva's sea cliffs, French Polynesia, 10°31'30.9"S 138°41'03.5"W
 ![fatu](cliff_pics/fatu_hiva.jpg)
+
+### Takamaka valley, Reunion, 21°05'49.5"S 55°37'13.6"E
+![takamaka](cliff_pics/takamaka.jpg)
