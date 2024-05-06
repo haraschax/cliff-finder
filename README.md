@@ -35,7 +35,7 @@ Deep in the Venezuelan jungle. Over 100km from the closest road lies Cerro Duida
 ### Fatu Hiva's Sea Cliffs, French Polynesia, 10°31'30.9"S 138°41'03.5"W
 ![fatu](cliff_pics/fatu_hiva.jpg)
 
-### Takamaka vVlley, Reunion, 21°05'49.5"S 55°37'13.6"E
+### Takamaka Valley, Reunion, 21°05'49.5"S 55°37'13.6"E
 ![takamaka](cliff_pics/takamaka.jpg)
 
 ### Filchner Mountains, Antarctica, 71°58'36.2"S 7°35'47.9"E
