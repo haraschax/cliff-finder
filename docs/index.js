@@ -44,8 +44,7 @@ const scatLayer = new ScatterplotLayer({
       return [lng, lat];
     },
     getRadius: (d) => {
-      if(d.img === ''){return 12}
-      else {return 100}
+      return Math.round(d.height/10 - 20)
     },
     radiusUnits: 'pixels',
     pickable: true,
