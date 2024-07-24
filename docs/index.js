@@ -1,7 +1,7 @@
 const {DeckGL, TerrainLayer, IconLayer, ScatterplotLayer, _TerrainExtension, GeoJsonLayer} = deck;
 
 
-const DATA_URL = "./data/cliffs_v2.csv";
+const DATA_URL = "./data/cliffs_v3.csv";
 const data = (await d3.csv(DATA_URL));
 
 
@@ -44,10 +44,10 @@ const scatLayer = new ScatterplotLayer({
       return [lng, lat];
     },
     getRadius: (d) => {
-      if (d.height > 1000) {return 60}
+      if (d.height > 1000) {return 40}
       else if (d.height > 800) {return 30}
-      else if (d.height > 600) {return 10}
-      else {return 5}
+      else if (d.height > 600) {return 20}
+      else {return 10}
     },
     radiusUnits: 'pixels',
     pickable: true,
