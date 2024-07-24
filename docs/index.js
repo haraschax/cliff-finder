@@ -47,7 +47,7 @@ const scatLayer = new ScatterplotLayer({
       if (d.height > 1000) {return 60}
       else if (d.height > 800) {return 30}
       else if (d.height > 600) {return 10}
-      else {return 40}
+      else {return 5}
     },
     radiusUnits: 'pixels',
     pickable: true,
