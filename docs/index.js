@@ -44,9 +44,9 @@ const scatLayer = new ScatterplotLayer({
       return [lng, lat];
     },
     getRadius: (d) => {
-      if (d.height > 1000) {return 100}
-      else if (d.height > 800) {return 80}
-      else if (d.height > 600) {return 60}
+      if (d.height > 1000) {return 60}
+      else if (d.height > 800) {return 30}
+      else if (d.height > 600) {return 10}
       else {return 40}
     },
     radiusUnits: 'pixels',
